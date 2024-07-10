@@ -1,6 +1,6 @@
 # Bienvenido al Foro de ALURA LATAM
 
-¡Hola y bienvenido al foro de ALURA LATAM!
+¡Hola y bienvenido al foro de ALURA-LATAM!
 
 Este espacio está dedicado a fomentar la colaboración, el aprendizaje y la discusión entre nuestros estudiantes y profesionales de la tecnología en América Latina.
 
